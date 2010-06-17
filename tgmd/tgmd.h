@@ -11,6 +11,7 @@
 
 #define LOG_TAG "TGMD"
 
+
 typedef enum SerialStates
 {
 	SERIAL_STATE_OPENING,
